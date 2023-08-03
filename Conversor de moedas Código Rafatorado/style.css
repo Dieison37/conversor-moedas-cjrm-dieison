@@ -1,0 +1,18 @@
+body {
+    
+    background-image: linear-gradient(to right, #4A708B, #F9FAFC);
+    
+  }
+  
+  .container {
+    padding-top: 7.5rem;
+  }
+  
+  .converted-value {
+    color: #452B4E;
+  }
+  
+  .conversion-precision {
+    color: #452B4E;
+  }
+  
